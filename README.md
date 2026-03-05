@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-gws [![Build](https://github.com/treezio/asdf-googleworkspace-cli/actions/workflows/build.yml/badge.svg)](https://github.com/treezio/asdf-googleworkspace-cli/actions/workflows/build.yml) [![Lint](https://github.com/treezio/asdf-googleworkspace-cli/actions/workflows/lint.yml/badge.svg)](https://github.com/treezio/asdf-googleworkspace-cli/actions/workflows/lint.yml)
+# asdf-gws [![Build](https://github.com/treezio/asdf-gws/actions/workflows/build.yml/badge.svg)](https://github.com/treezio/asdf-gws/actions/workflows/build.yml) [![Lint](https://github.com/treezio/asdf-gws/actions/workflows/lint.yml/badge.svg)](https://github.com/treezio/asdf-gws/actions/workflows/lint.yml)
 
 [Google Workspace CLI (`gws`)](https://github.com/googleworkspace/cli) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -22,7 +22,7 @@
 Plugin:
 
 ```shell
-asdf plugin add gws https://github.com/treezio/asdf-googleworkspace-cli.git
+asdf plugin add gws https://github.com/treezio/asdf-gws.git
 ```
 
 gws:
@@ -48,7 +48,7 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/treezio/asdf-googleworkspace-cli/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/treezio/asdf-gws/graphs/contributors)!
 
 # License
 
