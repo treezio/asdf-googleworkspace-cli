@@ -1,0 +1,3 @@
+--platform catthehacker/ubuntu:act-latest
+--eventpath .act/open_pull_request_onboarding_payload.json
+--container-daemon-socket -
